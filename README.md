@@ -1,6 +1,6 @@
 # Awesome-Structural-Biology-AI
 
-# Top Structural Biology & AI Tools Ecosystem
+## Top Structural Biology & AI Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Protein Structure Prediction, Molecular Docking & AI-Driven Drug Discovery*  
