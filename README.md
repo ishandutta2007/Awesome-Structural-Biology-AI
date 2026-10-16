@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Structural-Biology-AI/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Structural-Biology-AI?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Structural-Biology-AI/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Structural-Biology-AI?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Structural-Biology-AI/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Structural-Biology-AI?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Structural-Biology-AI/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -66,11 +66,11 @@ The following hosted platforms provide industrial-strength structural biology mo
 
 This section highlights the most influential open-source biomolecular repositories, foundation models, and molecular mechanics engines. 
 
-The list is sorted by **GitHub Stars (Descending)**, with live star badges linking directly to each repository's stargazers page:
+The list is sorted by **GitHub_Stars (Descending)**, with live Stars_Badges linking directly to each repository's stargazers page:
 
 ---
 
-### 1. [AlphaFold 2](https://github.com/google-deepmind/alphafold) [![GitHub stars](https://img.shields.io/github/stars/google-deepmind/alphafold?style=social&color=white)](https://github.com/google-deepmind/alphafold/stargazers)
+### 1. [AlphaFold 2](https://github.com/google-deepmind/alphafold) [![GitHub_Stars](https://img.shields.io/github/stars/google-deepmind/alphafold?style=social&color=white)](https://github.com/google-deepmind/alphafold/stargazers)
 - **License**: Apache-2.0
 - **Summary**: Google DeepMind's seminal deep learning system that solved the 50-year protein folding challenge. Uses Evoformer attention blocks and structural modules over multiple sequence alignments (MSAs) to predict 3D atomic coordinates directly from primary amino acid sequences with experimental accuracy.
 - **Install / Usage**:
@@ -81,7 +81,7 @@ The list is sorted by **GitHub Stars (Descending)**, with live star badges linki
 
 ---
 
-### 2. [DeepChem](https://github.com/deepchem/deepchem) [![GitHub stars](https://img.shields.io/github/stars/deepchem/deepchem?style=social&color=white)](https://github.com/deepchem/deepchem/stargazers)
+### 2. [DeepChem](https://github.com/deepchem/deepchem) [![GitHub_Stars](https://img.shields.io/github/stars/deepchem/deepchem?style=social&color=white)](https://github.com/deepchem/deepchem/stargazers)
 - **License**: MIT
 - **Summary**: The premier open-source deep learning framework for chemistry, materials science, and biology. Provides batteries-included pipelines for molecular property prediction, graph neural networks (GNNs), protein-ligand binding affinity scoring, and quantum chemistry computations.
 - **Install / Usage**:
@@ -91,7 +91,7 @@ The list is sorted by **GitHub Stars (Descending)**, with live star badges linki
 
 ---
 
-### 3. [BioGPT](https://github.com/microsoft/BioGPT) [![GitHub stars](https://img.shields.io/github/stars/microsoft/BioGPT?style=social&color=white)](https://github.com/microsoft/BioGPT/stargazers)
+### 3. [BioGPT](https://github.com/microsoft/BioGPT) [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/BioGPT?style=social&color=white)](https://github.com/microsoft/BioGPT/stargazers)
 - **License**: MIT
 - **Summary**: Microsoft's domain-specific generative language model pre-trained on millions of biomedical literature items (PubMed). Excels at relation extraction, biological question answering, document classification, and structural functional annotation mining.
 - **Install / Usage**:
@@ -101,7 +101,7 @@ The list is sorted by **GitHub Stars (Descending)**, with live star badges linki
 
 ---
 
-### 4. [Boltz-2 & Boltz-1](https://github.com/jwohlwend/boltz) [![GitHub stars](https://img.shields.io/github/stars/jwohlwend/boltz?style=social&color=white)](https://github.com/jwohlwend/boltz/stargazers)
+### 4. [Boltz-2 & Boltz-1](https://github.com/jwohlwend/boltz) [![GitHub_Stars](https://img.shields.io/github/stars/jwohlwend/boltz?style=social&color=white)](https://github.com/jwohlwend/boltz/stargazers)
 - **License**: MIT (Permissive for Academic & Commercial Use)
 - **Summary**: A state-of-the-art all-atom biomolecular foundation model. Boltz-1 was the first fully open-source system to approach AlphaFold3 accuracy across proteins, RNA, DNA, and ligands. Boltz-2 jointly predicts complex 3D structures and binding affinities (log10 IC50), reaching physics-based Free Energy Perturbation (FEP) precision at 1,000x faster speeds.
 - **Install / Usage**:
@@ -112,7 +112,7 @@ The list is sorted by **GitHub Stars (Descending)**, with live star badges linki
 
 ---
 
-### 5. [ESM (ESMFold & ESM-2)](https://github.com/facebookresearch/esm) [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/esm?style=social&color=white)](https://github.com/facebookresearch/esm/stargazers)
+### 5. [ESM (ESMFold & ESM-2)](https://github.com/facebookresearch/esm) [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/esm?style=social&color=white)](https://github.com/facebookresearch/esm/stargazers)
 - **License**: MIT
 - **Summary**: Evolutionary Scale Modeling from Meta AI. Includes ESM-2 (up to 15B parameter protein language model) and ESMFold, which performs end-to-end atomic structure prediction directly from single sequences without requiring multiple sequence alignments, delivering up to 60x faster inference than AlphaFold2.
 - **Install / Usage**:
@@ -122,7 +122,7 @@ The list is sorted by **GitHub Stars (Descending)**, with live star badges linki
 
 ---
 
-### 6. [OpenFold](https://github.com/aqlaboratory/openfold) [![GitHub stars](https://img.shields.io/github/stars/aqlaboratory/openfold?style=social&color=white)](https://github.com/aqlaboratory/openfold/stargazers)
+### 6. [OpenFold](https://github.com/aqlaboratory/openfold) [![GitHub_Stars](https://img.shields.io/github/stars/aqlaboratory/openfold?style=social&color=white)](https://github.com/aqlaboratory/openfold/stargazers)
 - **License**: Apache-2.0
 - **Summary**: A trainable, memory-efficient, GPU-optimized PyTorch reproduction of AlphaFold2. Serves as the computational baseline for training new biomolecular models from scratch. Supports SoloSeq single-sequence mode and reduced-memory chunking for long macromolecular chains.
 - **Install / Usage**:
@@ -133,7 +133,7 @@ The list is sorted by **GitHub Stars (Descending)**, with live star badges linki
 
 ---
 
-### 7. [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) [![GitHub stars](https://img.shields.io/github/stars/RosettaCommons/RFdiffusion?style=social&color=white)](https://github.com/RosettaCommons/RFdiffusion/stargazers)
+### 7. [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) [![GitHub_Stars](https://img.shields.io/github/stars/RosettaCommons/RFdiffusion?style=social&color=white)](https://github.com/RosettaCommons/RFdiffusion/stargazers)
 - **License**: BSD-3-Clause
 - **Summary**: Developed by the Baker Lab, RFdiffusion adapts generative diffusion models to de novo macromolecular design. Enables unconditional protein generation, motif scaffolding, symmetric oligomer design, enzyme active site engineering, and high-affinity target binder design from scratch.
 - **Install / Usage**:
@@ -144,7 +144,7 @@ The list is sorted by **GitHub Stars (Descending)**, with live star badges linki
 
 ---
 
-### 8. [ColabFold](https://github.com/sokrypton/ColabFold) [![GitHub stars](https://img.shields.io/github/stars/sokrypton/ColabFold?style=social&color=white)](https://github.com/sokrypton/ColabFold/stargazers)
+### 8. [ColabFold](https://github.com/sokrypton/ColabFold) [![GitHub_Stars](https://img.shields.io/github/stars/sokrypton/ColabFold?style=social&color=white)](https://github.com/sokrypton/ColabFold/stargazers)
 - **License**: MIT
 - **Summary**: democratizes protein structure prediction by replacing slow homology searches with MMseqs2 web servers. Delivers 40–60x speedups for AlphaFold2 and AlphaFold-Multimer, making complex predictions readily accessible on standard local GPUs and cloud notebooks.
 - **Install / Usage**:
@@ -155,7 +155,7 @@ The list is sorted by **GitHub Stars (Descending)**, with live star badges linki
 
 ---
 
-### 9. [Chai-1](https://github.com/chaidiscovery/chai-lab) [![GitHub stars](https://img.shields.io/github/stars/chaidiscovery/chai-lab?style=social&color=white)](https://github.com/chaidiscovery/chai-lab/stargazers)
+### 9. [Chai-1](https://github.com/chaidiscovery/chai-lab) [![GitHub_Stars](https://img.shields.io/github/stars/chaidiscovery/chai-lab?style=social&color=white)](https://github.com/chaidiscovery/chai-lab/stargazers)
 - **License**: Apache-2.0 (Academic & Commercial Use)
 - **Summary**: Multi-modal biomolecular foundation model from Chai Discovery. Folds proteins alongside small molecules, nucleic acids, glycans, ions, and covalent modifications in a single unified diffusion model. Outputs confidence metrics (pLDDT, PAE, pTM, ipTM) and supports up to 2,048 tokens per complex.
 - **Install / Usage**:
@@ -166,7 +166,7 @@ The list is sorted by **GitHub Stars (Descending)**, with live star badges linki
 
 ---
 
-### 10. [OpenMM](https://github.com/openmm/openmm) [![GitHub stars](https://img.shields.io/github/stars/openmm/openmm?style=social&color=white)](https://github.com/openmm/openmm/stargazers)
+### 10. [OpenMM](https://github.com/openmm/openmm) [![GitHub_Stars](https://img.shields.io/github/stars/openmm/openmm?style=social&color=white)](https://github.com/openmm/openmm/stargazers)
 - **License**: MIT & LGPL-3.0
 - **Summary**: High-performance, GPU-accelerated molecular dynamics toolkit. Supports modern force fields (AMBER, CHARMM, AMOEBA, OpenFF) and provides seamless Python bindings for integrating deep learning potentials and neural network force fields with classical mechanics.
 - **Install / Usage**:
@@ -176,7 +176,7 @@ The list is sorted by **GitHub Stars (Descending)**, with live star badges linki
 
 ---
 
-### 11. [PyMOL Open-Source](https://github.com/schrodinger/pymol-open-source) [![GitHub stars](https://img.shields.io/github/stars/schrodinger/pymol-open-source?style=social&color=white)](https://github.com/schrodinger/pymol-open-source/stargazers)
+### 11. [PyMOL Open-Source](https://github.com/schrodinger/pymol-open-source) [![GitHub_Stars](https://img.shields.io/github/stars/schrodinger/pymol-open-source?style=social&color=white)](https://github.com/schrodinger/pymol-open-source/stargazers)
 - **License**: BSD-like Open-Source License
 - **Summary**: The free, open-source codebase of the world's most widely used molecular visualization tool. Enables programmatic rendering, scriptable coordinate manipulation, hydrogen bond identification, and publication-quality 3D molecular figure creation.
 - **Install / Usage**:
@@ -186,7 +186,7 @@ The list is sorted by **GitHub Stars (Descending)**, with live star badges linki
 
 ---
 
-### 12. [MDAnalysis](https://github.com/MDAnalysis/mdanalysis) [![GitHub stars](https://img.shields.io/github/stars/MDAnalysis/mdanalysis?style=social&color=white)](https://github.com/MDAnalysis/mdanalysis/stargazers)
+### 12. [MDAnalysis](https://github.com/MDAnalysis/mdanalysis) [![GitHub_Stars](https://img.shields.io/github/stars/MDAnalysis/mdanalysis?style=social&color=white)](https://github.com/MDAnalysis/mdanalysis/stargazers)
 - **License**: GPL-3.0
 - **Summary**: An object-oriented Python library to analyze trajectories from molecular dynamics simulations (GROMACS, CHARMM, NAMD, Amber, OpenMM). Provides fast coordinate extraction, root-mean-square deviation (RMSD), PCA, and hydrogen-bonding kinetics.
 - **Install / Usage**:
@@ -196,7 +196,7 @@ The list is sorted by **GitHub Stars (Descending)**, with live star badges linki
 
 ---
 
-### 13. [DiffDock](https://github.com/gcorso/DiffDock) [![GitHub stars](https://img.shields.io/github/stars/gcorso/DiffDock?style=social&color=white)](https://github.com/gcorso/DiffDock/stargazers)
+### 13. [DiffDock](https://github.com/gcorso/DiffDock) [![GitHub_Stars](https://img.shields.io/github/stars/gcorso/DiffDock?style=social&color=white)](https://github.com/gcorso/DiffDock/stargazers)
 - **License**: MIT
 - **Summary**: Diffusion generative model over the degrees of freedom of ligand translation, rotation, and torsion angles. Treats flexible blind molecular docking as a generative reverse-diffusion process, achieving state-of-the-art pose prediction without requiring predefined binding pockets.
 - **Install / Usage**:
@@ -207,7 +207,7 @@ The list is sorted by **GitHub Stars (Descending)**, with live star badges linki
 
 ---
 
-### 14. [PaddleHelix](https://github.com/PaddlePaddle/PaddleHelix) [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleHelix?style=social&color=white)](https://github.com/PaddlePaddle/PaddleHelix/stargazers)
+### 14. [PaddleHelix](https://github.com/PaddlePaddle/PaddleHelix) [![GitHub_Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleHelix?style=social&color=white)](https://github.com/PaddlePaddle/PaddleHelix/stargazers)
 - **License**: Apache-2.0
 - **Summary**: Baidu's machine learning toolkit for biocomputing. Features HelixFold (a highly optimized implementation of AlphaFold2) and pre-trained models for drug-target interaction (DTI), RNA secondary structure prediction, and ADMET profiling.
 - **Install / Usage**:
@@ -217,7 +217,7 @@ The list is sorted by **GitHub Stars (Descending)**, with live star badges linki
 
 ---
 
-### 15. [GNINA 1.3](https://github.com/gnina/gnina) [![GitHub stars](https://img.shields.io/github/stars/gnina/gnina?style=social&color=white)](https://github.com/gnina/gnina/stargazers)
+### 15. [GNINA 1.3](https://github.com/gnina/gnina) [![GitHub_Stars](https://img.shields.io/github/stars/gnina/gnina?style=social&color=white)](https://github.com/gnina/gnina/stargazers)
 - **License**: Apache-2.0
 - **Summary**: Deep learning framework for molecular docking and scoring. Employs 3D convolutional neural networks (CNNs) trained on CrossDocked benchmarks to rescore docked poses, evaluate binding affinities, and conduct high-throughput covalent and non-covalent virtual screening.
 - **Install / Usage**:
@@ -228,7 +228,7 @@ The list is sorted by **GitHub Stars (Descending)**, with live star badges linki
 
 ---
 
-### 16. [OpenFold-3](https://github.com/aqlaboratory/openfold-3) [![GitHub stars](https://img.shields.io/github/stars/aqlaboratory/openfold-3?style=social&color=white)](https://github.com/aqlaboratory/openfold-3/stargazers)
+### 16. [OpenFold-3](https://github.com/aqlaboratory/openfold-3) [![GitHub_Stars](https://img.shields.io/github/stars/aqlaboratory/openfold-3?style=social&color=white)](https://github.com/aqlaboratory/openfold-3/stargazers)
 - **License**: Apache-2.0
 - **Summary**: Fully open-source reproduction and evolution of the AlphaFold3 architecture by the OpenFold consortium. Provides transparent, non-restrictive model weights and inference code for folding complex biomolecular assemblies containing modified amino acids, DNA/RNA, and small molecules.
 - **Install / Usage**:
@@ -238,7 +238,7 @@ The list is sorted by **GitHub Stars (Descending)**, with live star badges linki
 
 ---
 
-### 17. [BioNeMo Recipes](https://github.com/NVIDIA-BioNeMo/bionemo-recipes) [![GitHub stars](https://img.shields.io/github/stars/NVIDIA-BioNeMo/bionemo-recipes?style=social&color=white)](https://github.com/NVIDIA-BioNeMo/bionemo-recipes/stargazers)
+### 17. [BioNeMo Recipes](https://github.com/NVIDIA-BioNeMo/bionemo-recipes) [![GitHub_Stars](https://img.shields.io/github/stars/NVIDIA-BioNeMo/bionemo-recipes?style=social&color=white)](https://github.com/NVIDIA-BioNeMo/bionemo-recipes/stargazers)
 - **License**: Apache-2.0
 - **Summary**: NVIDIA's enterprise-grade generative AI framework for drug discovery. Contains recipes for fine-tuning ESM-2, training MegaMolBART, running DiffDock inference on TensorRT, and scaling structural biology foundation models across distributed GPU clusters.
 - **Install / Usage**:
@@ -248,7 +248,7 @@ The list is sorted by **GitHub Stars (Descending)**, with live star badges linki
 
 ---
 
-### 18. [OmegaFold](https://github.com/HeliXonProtein/OmegaFold) [![GitHub stars](https://img.shields.io/github/stars/HeliXonProtein/OmegaFold?style=social&color=white)](https://github.com/HeliXonProtein/OmegaFold/stargazers)
+### 18. [OmegaFold](https://github.com/HeliXonProtein/OmegaFold) [![GitHub_Stars](https://img.shields.io/github/stars/HeliXonProtein/OmegaFold?style=social&color=white)](https://github.com/HeliXonProtein/OmegaFold/stargazers)
 - **License**: Apache-2.0
 - **Summary**: Fast single-sequence protein structure prediction model that leverages OmegaPLM language representations without requiring homology searches or multiple sequence alignments. Highly effective for orphan proteins and fast screening.
 - **Install / Usage**:
@@ -258,7 +258,7 @@ The list is sorted by **GitHub Stars (Descending)**, with live star badges linki
 
 ---
 
-### 19. [RELION](https://github.com/3dem/relion) [![GitHub stars](https://img.shields.io/github/stars/3dem/relion?style=social&color=white)](https://github.com/3dem/relion/stargazers)
+### 19. [RELION](https://github.com/3dem/relion) [![GitHub_Stars](https://img.shields.io/github/stars/3dem/relion?style=social&color=white)](https://github.com/3dem/relion/stargazers)
 - **License**: GPL-2.0
 - **Summary**: REgularised LIkelihood OptimisatioN for electron cryo-microscopy (Cryo-EM). The gold-standard Bayesian framework for single-particle 3D reconstruction, subtomogram averaging, and macromolecular dynamics analysis.
 - **Install / Usage**:
@@ -269,7 +269,7 @@ The list is sorted by **GitHub Stars (Descending)**, with live star badges linki
 
 ---
 
-### 20. [ProDy](https://github.com/prody/ProDy) [![GitHub stars](https://img.shields.io/github/stars/prody/ProDy?style=social&color=white)](https://github.com/prody/ProDy/stargazers)
+### 20. [ProDy](https://github.com/prody/ProDy) [![GitHub_Stars](https://img.shields.io/github/stars/prody/ProDy?style=social&color=white)](https://github.com/prody/ProDy/stargazers)
 - **License**: MIT
 - **Summary**: Comprehensive Python package for protein dynamics analysis. Combines Normal Mode Analysis (NMA), Anisotropic Network Models (ANM), and trajectory ensembles to evaluate conformational flexibility and allosteric communication.
 - **Install / Usage**:
@@ -279,7 +279,7 @@ The list is sorted by **GitHub Stars (Descending)**, with live star badges linki
 
 ---
 
-### 21. [EasyDock](https://github.com/ci-lab-cz/easydock) [![GitHub stars](https://img.shields.io/github/stars/ci-lab-cz/easydock?style=social&color=white)](https://github.com/ci-lab-cz/easydock/stargazers)
+### 21. [EasyDock](https://github.com/ci-lab-cz/easydock) [![GitHub_Stars](https://img.shields.io/github/stars/ci-lab-cz/easydock?style=social&color=white)](https://github.com/ci-lab-cz/easydock/stargazers)
 - **License**: MIT
 - **Summary**: Modular and distributed molecular docking pipeline. Orchestrates multiple docking engines (AutoDock Vina, CarsiDock, SurfDock) in containerized Apptainer/Docker environments with built-in ligand protonation and PoseBusters pose validation.
 - **Install / Usage**:
@@ -317,7 +317,7 @@ Contributions from researchers, software developers, and structural biologists a
 1. **Fork the repository** to your GitHub account.
 2. **Add or update an entry** in `README.md` maintaining consistent formatting:
    - For SaaS: Name, company, valuation/revenue, capabilities, exact starting tier price, and specific free tier limits.
-   - For Open-Source: Repository link, live star badge `[![GitHub stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`, license, description, and install snippet.
+   - For Open-Source: Repository link, live Stars_Badge `[![GitHub_Stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`, license, description, and install snippet.
 3. **Submit a Pull Request (PR)** with a concise summary of the change.
 
 ---
